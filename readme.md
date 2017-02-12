@@ -10,6 +10,8 @@ Is in opencode.
 2. Ranking page
 3. Login and register page
 
+### Try on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Installation
 ----------  
