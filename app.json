@@ -1,0 +1,6 @@
+{
+  "name": "Stegolica",
+  "description": "Python-Django based online event platform named stegolica.",
+  "repository": "https://github.com/gauthamzz/Django-EventPlatform",
+  "keywords": ["django", "material-design", "opencode", "python"]
+}
