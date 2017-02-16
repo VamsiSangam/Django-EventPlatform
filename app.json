@@ -2,5 +2,6 @@
   "name": "Stegolica",
   "description": "Python-Django based online event platform named stegolica.",
   "repository": "https://github.com/VamsiSangam/Django-EventPlatform",
-  "keywords": ["django", "material-design", "opencode", "python"]
+  "keywords": ["django", "material-design", "opencode", "python"],
+  "addons": [ "heroku-postgresql" ]
 }
